@@ -83,7 +83,7 @@ a {
 .content-container {
     padding: 20px;
     margin-left: 280px; /* Ensure space for the panel */
-    margin-top: 75px;
+    margin-top: 64px;
     max-width: 1500px;
     max-height: 600px;
     background-color: #444; /* Optional: Add a background color */
